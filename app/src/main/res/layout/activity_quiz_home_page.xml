@@ -42,7 +42,7 @@
                 android:background="@color/green_bar" />
             <TextView
                 android:id="@+id/abt_free_test"
-                android:layout_width="380dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
                 android:text="@string/abt_free_tests"
@@ -94,7 +94,7 @@
                 android:background="@color/green_bar" />
             <TextView
                 android:id="@+id/abt_chapter_wise_test"
-                android:layout_width="380dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
                 android:text="@string/abt_chapter_wise_tests"
@@ -155,7 +155,7 @@
                 android:background="@color/green_bar" />
             <TextView
                 android:id="@+id/abt_practise_test"
-                android:layout_width="380dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
                 android:text="@string/abt_practise_tests"
@@ -216,7 +216,7 @@
                 android:background="@color/green_bar" />
             <TextView
                 android:id="@+id/abt_assessments"
-                android:layout_width="380dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="5dp"
                 android:text="@string/abt_assessments"

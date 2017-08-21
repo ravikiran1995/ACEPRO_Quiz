@@ -59,13 +59,14 @@
 
                 <Button
                     android:id="@+id/btnExam"
-                    android:layout_width="101dp"
+                    android:layout_width="110dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="250dp"
                     android:layout_marginTop="70dp"
+                    android:background="@android:color/transparent"
+                    android:onClick="start_quiz"
+
                     android:text="@string/startquiz"
-
-
                     tools:ignore="RtlHardcoded" />
 
 
@@ -117,13 +118,14 @@
 
                 <Button
                     android:id="@+id/btnChat"
-                    android:layout_width="101dp"
+                    android:layout_width="110dp"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="250dp"
                     android:layout_marginTop="70dp"
+                    android:background="@android:color/transparent"
+                    android:onClick="start_chat_box"
+
                     android:text="@string/chat"
-
-
                     tools:ignore="RtlHardcoded" />
 
 

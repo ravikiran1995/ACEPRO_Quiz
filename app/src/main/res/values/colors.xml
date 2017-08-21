@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green_bar">#48cfad</color>
+    <color name="text_color">#47506a</color>
+    <color name="questioncolor">#f22f3c</color>
+    <color name="optionColor">#55689d</color>
+    <color name="button_red">#f30000</color>
+</resources>
